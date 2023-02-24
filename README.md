@@ -11,3 +11,5 @@
 # 运行
 
     python main.py
+
+![界面](./demo.png)
