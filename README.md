@@ -10,4 +10,4 @@
 
 # 运行
 
- python main.py
+    python main.py
